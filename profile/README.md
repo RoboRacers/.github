@@ -1,5 +1,5 @@
 
-# "It's about the race, Not the finish line"
+# "It's about the race, not the finish line"
 
 We’re RoboRacers, a robotics team from Dublin, CA. Our team, RoboRacers 16481, is taking part in the annual FIRST Tech Challenge (FTC). We are talented kids from the ages 12-16 years. Our team was founded in 2019.
 
